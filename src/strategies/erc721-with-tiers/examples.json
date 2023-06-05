@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Example query with a subscription based ERC721",
+    "strategy": {
+      "name": "erc721-with-tiers",
+      "params": {
+        "address": "0xa4a6ad0546363d093a6eef1eabd31255a49b7635",
+        "symbol": "WACT",
+        "maxTiers": 3,
+        "higherBetter": true
+      }
+    },
+    "network": "42161",
+    "addresses": [
+      "0x290a83EB9b7B3Ca387708Fb6fF1120c376b39400",
+      "0x6B6BfD602C5856E16C75Cc76A757CE99936cc972"
+    ]
+  }
+]
